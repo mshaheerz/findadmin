@@ -1,6 +1,6 @@
-#Created for coded32 and his teamopenfire Eliminated Some bugs from my last code shared here as Guest.
-#Greets To T.O.F and Indishell
-#Thanks friends for find bugs and give suggetions
+#Created for mshaheerz and his teamopenfire Eliminated Some bugs from my last code shared here as Guest.
+#credit me
+#any bugs contact me mshaheerkp9@gmail.com
 
 #cd direcory/to/code
 #direcory/to/code>python code.py
@@ -16,19 +16,19 @@ import sys
 
 try:
     print "\t################################################################"
-    print "\t#                                        www.teamopenfire.com  #"
-    print "\t#       ###############      ########       ############       #"
-    print "\t#       #             #     ##      ##      #          #       #"
-    print "\t#       ######   ######     ##      ##      #   ########       #"
-    print "\t#            #   #          ##      ##      #   #              #"
-    print "\t#            #   #          ##      ##      #   #####          #"
-    print "\t#            #   #          ##      ##      #   #####          #"
-    print "\t#            #   #          ##      ##      #   #              #"
-    print "\t#            #   #          ##      ##      #   #              #"
-    print "\t#            #####    [#]    ########   [#] #####  AdminFinder #"
+    print "\t#                                        Any bug email me      #"
+    print "\t#       ####### ##     ##    #####    ##      ##  ##### ####   #"
+    print "\t#       #       ##     ##   ##   ##   ##      ##  ##    #   #  #"
+    print "\t#       ####### ## ### ##  #########  ## #### ##  ####  # # #  #"
+    print "\t#             # ##     ##  ###   ###  ##      ##  ##    #    # #"
+    print "\t#       ####### ##     ##  ###   ###  ##      ##  ####  #     ##"
     print "\t#                                                              #"
-    print "\t#                                            coded by Ajith KP #"
-    print "\t#                          Greets to Coded32 and T.O.F members #"
+    print "\t#                                                              #"
+    print "\t#                                                              #"
+    print "\t#                 [#l#####  AdminFinder(mshaheerkp9@gmail.com) #"
+    print "\t#                                                              #"
+    print "\t#                                            coded by shaheerz #"
+    print "\t#                                    dont rob my coads         #"
     print "\t################################################################"
     var1=0
     var2=0
