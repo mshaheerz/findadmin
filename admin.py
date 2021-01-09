@@ -6,7 +6,7 @@
 #direcory/to/code>python code.py
 
 #improved Error Handling
-#Find out usefull stuffs from www.teamopenfire.com
+# malayali vere level alle
 #"wE aRe gREat inDIans"
 
 import httplib
@@ -154,7 +154,7 @@ try:
 'adm/index.brf','adm.brf','affiliate.brf','adm_auth.brf','memberadmin.brf','administratorlogin.brf']
     
     try:
-        site = raw_input("Web Site for Scan?: ")
+        site = raw_input("Input website: ")
         site = site.replace("http://","")
         print ("\tChecking website " + site + "...")
         conn = httplib.HTTPConnection(site)
@@ -338,4 +338,4 @@ try:
 except (httplib.HTTPResponse, socket.error):
     print "\n\t[!] Session Cancelled; Error occured. Check internet settings"
 except (KeyboardInterrupt, SystemExit):
-    print "\n\t[!] Session cancelled"
+    print "\n\t[!] Session cancelled (admin finder by shaheer)"
