@@ -338,4 +338,4 @@ try:
 except (httplib.HTTPResponse, socket.error):
     print "\n\t[!] Session Cancelled; Error occured. Check internet settings"
 except (KeyboardInterrupt, SystemExit):
-    print "\n\t[!] Session cancelled (admin finder by shaheer)"
+    print "\n\t[!] Session cancelled (admin finder by shaheerz)"
