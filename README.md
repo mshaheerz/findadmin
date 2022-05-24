@@ -1,5 +1,5 @@
 # findadmin
-its use for find admin page
+Its used for find the admin page
 
 
 # installation
